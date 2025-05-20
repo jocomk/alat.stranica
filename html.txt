@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alatnica - Sve za majstore</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🔧 Alatnica</h1>
+        <p>Tvoje mesto za kvalitetan alat!</p>
+    </header>
+
+    <section class="gallery">
+        <h2>Naš asortiman</h2>
+        <div class="tools">
+            <div class="tool">
+                <img src="https://via.placeholder.com/150" alt="Čekić">
+                <p>Čekić</p>
+            </div>
+            <div class="tool">
+                <img src="https://via.placeholder.com/150" alt="Šrafciger">
+                <p>Šrafciger</p>
+            </div>
+            <div class="tool">
+                <img src="https://via.placeholder.com/150" alt="Bušilica">
+                <p>Bušilica</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <button onclick="alert('Kontaktiraj nas na: alatnica@example.com')">Kontaktiraj nas</button>
+    </footer>
+</body>
+</html>
